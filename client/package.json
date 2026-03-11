@@ -12,6 +12,7 @@
   "dependencies": {
     "@clerk/react": "^6.0.1",
     "@clerk/themes": "^2.4.57",
+    "@formspree/react": "^3.0.0",
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.2.1",
     "axios": "^1.13.6",
